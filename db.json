@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Luminar",
+      "cover_image": "https://i.postimg.cc/RVWyLf64/Kalkki.jpg",
+      "video_url": "https://www.youtube.com/embed/m1F5nan9MFk?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "Leo trailer",
+      "cover_image": "https://www.wallsnapy.com/img_gallery/leo-first-look-images-hd-3786859.jpg",
+      "video_url": "https://www.youtube.com/embed/cPHw2OpYr_w?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Neymar",
+      "cover_image": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2023/5/12/neymar.jpg",
+      "video_url": "https://www.youtube.com/embed/b3ZAOfOh8aA?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "Dhruva Natchathiram",
+      "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mAMy81004J6wssvlrGX_B1GTBVMSHdEIVik1K3U56g&s",
+      "video_url": "https://www.youtube.com/embed/udAlOSn4yFo?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "lo588xrz",
+      "name": "New123",
+      "videos": [
+        {
+          "id": 2,
+          "caption": "Leo trailer",
+          "cover_image": "https://www.wallsnapy.com/img_gallery/leo-first-look-images-hd-3786859.jpg",
+          "video_url": "https://www.youtube.com/embed/cPHw2OpYr_w?autoplay=1"
+        },
+        {
+          "id": 4,
+          "caption": "Dhruva Natchathiram",
+          "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mAMy81004J6wssvlrGX_B1GTBVMSHdEIVik1K3U56g&s",
+          "video_url": "https://www.youtube.com/embed/udAlOSn4yFo?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "6Htajhy",
+      "name": "xcvxcv",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "Dhruva Natchathiram",
+          "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mAMy81004J6wssvlrGX_B1GTBVMSHdEIVik1K3U56g&s",
+          "video_url": "https://www.youtube.com/embed/udAlOSn4yFo?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo6r2aem",
+      "video_title": "Leo trailer",
+      "url": "https://www.youtube.com/embed/cPHw2OpYr_w?autoplay=1",
+      "curDate": "2023-10-26 11:04:35 AM"
+    },
+    {
+      "id": "lo6r2dcx",
+      "video_title": "Dhruva Natchathiram",
+      "url": "https://www.youtube.com/embed/udAlOSn4yFo?autoplay=1",
+      "curDate": "2023-10-26 11:04:39 AM"
+    }
+  ]
+}
